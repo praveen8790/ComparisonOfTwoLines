@@ -1,0 +1,5 @@
+DEBUG | 2021-05-18 00:23:06 | [main] LineCompare.Main (Main.java:9) - hii how are u
+INFO  | 2021-05-18 00:23:06 | [main] LineCompare.Main (Main.java:10) - hii how are u
+DEBUG | 2021-05-18 00:23:28 | [main] LineCompare.Main (Main.java:9) - hii how are u
+INFO  | 2021-05-18 00:23:28 | [main] LineCompare.Main (Main.java:10) - hii how are u
+DEBUG | 2021-05-18 02:25:13 | [main] LineCompare.Main (Main.java:19) - Length of first line is lesser than second line
