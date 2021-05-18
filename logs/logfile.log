@@ -1,1 +1,4 @@
 DEBUG | 2021-05-18 02:25:13 | [main] LineCompare.Main (Main.java:19) - Length of first line is lesser than second line
+DEBUG | 2021-05-18 08:53:58 | [main] LineCompare.Main (Main.java:19) - Length of first line is greater than second line
+DEBUG | 2021-05-18 08:57:37 | [main] LineCompare.Main (Main.java:19) - Length of first line is lesser than second line
+DEBUG | 2021-05-18 09:01:18 | [main] LineCompare.Main (Main.java:19) - Length of first line is greater than second line
